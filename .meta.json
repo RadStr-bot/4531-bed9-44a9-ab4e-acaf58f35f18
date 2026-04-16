@@ -6,7 +6,7 @@
   ],
   "userMetadata": {
     "label": {
-      "en": "Data Specification Vocabulary (DSV) - change from Git"
+      "en": "Data Specification Vocabulary (DSV) from ds"
     },
     "description": {
       "en": "This specification defines terms needed to describe application profiles,"
@@ -16,7 +16,7 @@
   },
   "metadata": {
     "creationDate": "2026-04-13T21:18:48.846Z",
-    "modificationDate": "2026-04-13T21:24:15.688Z"
+    "modificationDate": "2026-04-16T08:54:40.970Z"
   },
   "_version": 1,
   "_exportVersion": 2,
